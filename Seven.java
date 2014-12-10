@@ -13,7 +13,7 @@ public class Seven extends Digit {
 		segment3_On();
 		segment4_Off();
 		segment5_Off();
-		segment6_Off();
+		segment6_On();
 		segment7_Off();
 
 	}
