@@ -23,8 +23,8 @@ public class Lab11 {
    Digit Two = new Two (18,15);
    Digit Two2 = new Two (25,15);
    Digit Eight = new Eight (32,15);
-   Digit Seven = new Seven (38,15);
-   Digit Five2 = new Five (45, 15);
+   Digit Seven = new Seven (39,15);
+   Digit Five2 = new Five (46, 15);
    
    Zero.display();
    One.display();
